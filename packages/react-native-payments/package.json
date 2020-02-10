@@ -1,5 +1,5 @@
 {
-  "name": "@exodus/react-native-payments",
+  "name": "@mop/react-native-payments",
   "version": "1.1.1",
   "main": "lib/js/index.js",
   "scripts": {
